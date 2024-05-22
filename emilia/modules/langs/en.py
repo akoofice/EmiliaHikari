@@ -19,7 +19,7 @@ en = {
 	"Bahasa telah di ubah ke {}!": "Language changed to {}!",
 	"Bahasa di *{}* saat ini adalah:\n{}.\n\nPilih bahasa:": "Current language in *{}* is:\n{}.\n\nSelect language:",
 	"obrolan saat ini": "current in this chat",
-	"language_help": """Not every group understands indonesian; some groups would rather have Emilia respond in their own language.
+	"language_help": """Not every group understands indonesian; some groups would rather have Fritzy respond in their own language.
 
 This is where translations comes in; you can change most of Emilia's replies to be in the language of your choice!
 
@@ -33,18 +33,18 @@ Available commands are:
 # __main__
 	"Ada yang bisa saya bantu? 😊": "Is there anything I can help with? 😊",
 	"start_text": """
-Hi {}, my name is {}! I am a group manager managed by [my master](tg://user?id={}).
-To get this bot status info and updates, you can join our channel [Ayra's Bot News](https://t.me/AyraBotNews)
+Hi {}, my name is Fritzy! I am a group manager managed by [my master](tg://user?id={}).
+To get this bot status info and updates, you can join our channel [JKT48 Live](https://t.me/JKT48Live)
 
 You can find the list of available commands with /help.
 
 Having issues? need help?
-Reach out to us at [Emilia Official Support](https://t.me/EmiliaOfficial)!
+Reach out to us at [Fritzy Official Support](https://t.me/+QrwlElkqYEtkZTBl)!
 
 If you're enjoying my assistance and would like to help me survive the wild hit /donate to help fund/upgrade my VPS!
 """,
 	"help_text": """
-Hey there! My name is *Emilia*.
+Hey there! My name is *Fritzy*.
 I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of \
 the things I can help you with.
 
@@ -62,7 +62,7 @@ All commands can either be used with `/` or `!`
 And the following:
 """,
 	"donate_text": """Hello, Glad to hear you want to donate!
-It takes a lot of effort for [my creator](tg://user?id=388576209) to take me to where I am now, and \
+It takes a lot of effort for [my creator](tg://user?id=5403240488) to take me to where I am now, and \
 every donation helps by motivating him to make me better.
 
 All funds will be used improve my hosting server, and or some food. \
@@ -194,8 +194,8 @@ Contoh nilai waktu: 4m = 4 menit, 3h = 3 jam, 6d = 6 hari, 5w = 5 minggu.""": ""
 # Backups
 	"Coba unduh dan unggah ulang file seperti Anda sendiri sebelum mengimpor - yang ini sepertinya rusak!": "Try downloading and reuploading the file as yourself before importing - this one seems to be iffy!",
 	"File cadangan tidak valid!": "Invalid backup file!",
-	"Telah terjadi kesalahan dalam import backup Emilia!\nGabung ke [Grup support](https://t.me/EmiliaOfficial) kami untuk melaporkan dan mengatasi masalah ini!\n\nTerima kasih": "An exception occured while restoring your data from Emilia backup!\nJoin our [Group support](https://t.me/EmiliaOfficial) for reporting and troubleshooting this problem!\n\nThank you",
-	"Telah terjadi kesalahan dalam import backup Rose!\nGabung ke [Grup support](https://t.me/EmiliaOfficial) kami untuk melaporkan dan mengatasi masalah ini!\n\nTerima kasih": "An exception occured while restoring your data from Rose backup!\nJoin our [Group support](https://t.me/EmiliaOfficial) for reporting and troubleshooting this problem!\n\nThank you",
+	"Telah terjadi kesalahan dalam import backup Emilia!\nGabung ke [Grup support](https://t.me/+QrwlElkqYEtkZTBl) kami untuk melaporkan dan mengatasi masalah ini!\n\nTerima kasih": "An exception occured while restoring your data from Emilia backup!\nJoin our [Group support](https://t.me/EmiliaOfficial) for reporting and troubleshooting this problem!\n\nThank you",
+	"Telah terjadi kesalahan dalam import backup Rose!\nGabung ke [Grup support](https://t.me/+QrwlElkqYEtkZTBl) kami untuk melaporkan dan mengatasi masalah ini!\n\nTerima kasih": "An exception occured while restoring your data from Rose backup!\nJoin our [Group support](https://t.me/EmiliaOfficial) for reporting and troubleshooting this problem!\n\nThank you",
 	"Ada lebih dari satu grup di file ini, dan tidak ada yang memiliki id obrolan yang sama dengan grup ini - bagaimana cara memilih apa yang akan diimpor?": "Theres more than one group here in this file, and none have the same chat id as this group - how do I choose what to import?",
 	"Backup berasal chat lain, Saya tidak bisa mengembalikan chat lain kedalam chat *{}*": "Backup comes from another chat, I can't return another chat to chat *{}*",
 	"Backup berasal chat lain, Saya tidak bisa mengembalikan chat lain kedalam chat ini": "Backup comes from another chat, I can't return another chat to this chat",
